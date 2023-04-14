@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shree-77
-- 👀 I’m interested in Java & DSA
+- 👀 I’m interested to work in Java Projects
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Java Projects && DSA
+- 💞️ I’m looking to collaborate.
 - 📫 How to reach me shreeviswa7@gmail.com
 
 <!---
