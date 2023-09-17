@@ -37,6 +37,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shree-77&theme=dracula)](https://git.io/streak-stats)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=q7sa7yit1r6ypr9jiwog0f7lq)
+
 
 <!---
 Shree-77/Shree-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
