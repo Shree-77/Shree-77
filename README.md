@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-77&layout=compact)](https://github.com/Shree-77/Shree-77)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shree-77&theme=monokai&row=2&column=3)](https://github.com/Shree-77/Shree-77)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shree-77&theme=monokai&row=1&column=1)](https://github.com/Shree-77/Shree-77)
 
 
 <!---
