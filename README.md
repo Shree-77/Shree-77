@@ -6,6 +6,8 @@
 
 [![MasterHead](header.png)](https://github.com/Shree-77/Shree-77)
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif">
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Shree-77&show_icons=true&title_color=ff69b4&text_color=ffb447&icon_color=50e3c2&border_color=4a90e2&bg_color=2d3748&hide_border=false&theme=default&cache_seconds=1800&locale=en&border_radius=12"
