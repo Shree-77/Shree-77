@@ -26,6 +26,17 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shree-77&theme=monokai&row=1&column=6&no-frame=true)](https://github.com/Shree-77/Shree-77)
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://leetcode.com/Shree_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shree-v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shree7_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="shreeviswa7@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/email.svg" alt="" height="30" width="40" /></a>
+</p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shree-77&theme=dracula)](https://git.io/streak-stats)
+
+
 <!---
 Shree-77/Shree-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
