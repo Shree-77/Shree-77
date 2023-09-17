@@ -18,6 +18,9 @@
 </picture>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-77)](https://github.com/Shree-77/Shree-77)
+
+
 
 <!---
 Shree-77/Shree-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
