@@ -32,3 +32,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shree-77&show_icons=true&locale=en" alt="shree-77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shree-77&" alt="shree-77" /></p>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=q7sa7yit1r6ypr9jiwog0f7lq&count=1)
