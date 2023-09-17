@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-77&label=Profile%20views&color=0e75b6&style=flat" alt="shree-77" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree-77" alt="shree-77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree-77&row=1" alt="shree-77" /></a> </p>
 
 - 🔭 I’m currently working on [A simple Blog site](https://github.com/Shree-77/BlogWebsite.git)
 
