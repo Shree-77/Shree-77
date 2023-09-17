@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shree-77
-- 👀 I’m interested to work in Java Projects
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested to work in JS Projects
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me shreeviswa7@gmail.com
 
