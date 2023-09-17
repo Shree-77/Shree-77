@@ -20,7 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-77&layout=compact)](https://github.com/Shree-77/Shree-77)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shree-77&theme=onedark)](https://github.com/Shree-77/Shree-77)
+
+https://github-profile-trophy.vercel.app/?username=Shree-77&theme=dracula
+
 <!---
 Shree-77/Shree-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
