@@ -18,7 +18,7 @@
 </picture>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-77layout=compact)](https://github.com/Shree-77/Shree-77)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shree-77&layout=compact)](https://github.com/Shree-77/Shree-77)
 
 
 
