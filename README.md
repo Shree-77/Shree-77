@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [A simple Blog site](https://github.com/Shree-77/BlogWebsite.git)
 
-- 🌱 I’m currently learning **Node JS , Express JS , Django**
+- 🌱 I’m currently learning **Node JS , Express JS , React Js**
 
-- 👯 I’m looking to collaborate on **Node JS , Express JS**
+- 👯 I’m looking to collaborate on **MERN Stack**
 
 - 🤝 I’m looking for help with **Backend Development**
 
