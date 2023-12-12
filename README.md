@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [A simple Blog site](https://github.com/Shree-77/BlogWebsite.git)
 
-- 🌱 I’m currently learning **Node JS , Express JS , React Js**
+- 🌱 I’m currently learning **Spring-Boot , Hibernate , JPA and Spring-Security**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **MERN Stack and Srping-Boot**
 
-- 🤝 I’m looking for help with **Backend Development**
+- 🤝 I’m looking for help with **Backend Development and some Non-Linear DSA**
 
 - 💬 Ask me about **Java**
 
