@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-77&label=Profile%20views&color=0e75b6&style=flat" alt="shree-77" /> </p>
 
-- 🔭 I’m currently working on [A simple Blog site](https://github.com/Shree-77/BlogWebsite.git)
+- 🔭 I’m currently working on [Task Sphere](https://github.com/Shree-77/Task-Management.git)
 
 - 🌱 I’m currently learning **Spring-Boot , Hibernate , JPA and Spring-Security**
 
