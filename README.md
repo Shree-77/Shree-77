@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring-Boot , Hibernate , JPA and Spring-Security**
 
-- 👯 I’m looking to collaborate on **MERN Stack and Srping-Boot**
+- 👯 I’m looking to collaborate on **MERN Stack and Spring-Boot**
 
 - 🤝 I’m looking for help with **Backend Development and some Non-Linear DSA**
 
