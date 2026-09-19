@@ -3,15 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shree-77&label=Profile%20views&color=0e75b6&style=flat" alt="shree-77" /> </p>
 
-- 🔭 I’m currently working on [Task Sphere](https://github.com/Shree-77/Task-Management.git)
-
-- 🌱 I’m currently learning **Spring-Boot , Hibernate , JPA and Spring-Security**
-
-- 👯 I’m looking to collaborate on **MERN Stack and Spring-Boot**
-
-- 🤝 I’m looking for help with **Backend Development and some Non-Linear DSA**
-
-- 💬 Ask me about **Java**
 
 - 📫 How to reach me **shreeviswa7@gmail.com**
 
